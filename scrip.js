@@ -1,4 +1,4 @@
-const lampada = document.getElementById("lampada");
+const lampada = document.getElementById ("lampada");
 // estamos aguardando na variavel lampada uma tag
 // documente acessa a tag pelo id
 console.log(lampada);
